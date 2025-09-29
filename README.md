@@ -1,0 +1,2 @@
+# Real-time-railway-track-safety-monitoring-with-Raspberry-Pi-IoT
+🚆 An IoT-based Railway Track Monitoring System using Raspberry Pi, ultrasonic sensors, MPU6050 vibration sensor, and camera. The system detects track cracks, vibrations, and misalignments, and provides real-time alerts via LEDs along with IP-based geolocation logs. Runs as a standalone service on Raspberry Pi for continuous monitoring
